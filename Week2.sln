@@ -5,6 +5,13 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo1", "ArrayDemo1\ArrayDemo1.csproj", "{C0C0E8A4-71A6-469E-AEF4-EF6B6F899F49}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{85CDA501-7397-4B90-924C-D222DE80C8C1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayDemo2", "ArrayDemo2\ArrayDemo2.csproj", "{E0EBEC50-E11D-4287-9312-82E8DDB56F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{C0C0E8A4-71A6-469E-AEF4-EF6B6F899F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C0E8A4-71A6-469E-AEF4-EF6B6F899F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C0E8A4-71A6-469E-AEF4-EF6B6F899F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EBEC50-E11D-4287-9312-82E8DDB56F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EBEC50-E11D-4287-9312-82E8DDB56F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EBEC50-E11D-4287-9312-82E8DDB56F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EBEC50-E11D-4287-9312-82E8DDB56F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
