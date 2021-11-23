@@ -29,7 +29,7 @@ namespace ArrayDemo2
         {
             while (true)
             {
-                Console.Write("Would you liuke to go again? (y/n)");
+                Console.Write("Would you like to go again? (y/n)");
                 string entry = Console.ReadLine();
                 if (entry.ToLower() == "n")
                 {
