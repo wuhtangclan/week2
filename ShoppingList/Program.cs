@@ -68,6 +68,8 @@ namespace ShoppingList
                     keepAdding = false;
                 }
             }
+            Console.WriteLine("Thank you for your order!");
+            Console.WriteLine("Here's what you got in the bag: ");
             decimal sum = 0m;
             foreach (string item in items)
             {
